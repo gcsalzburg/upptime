@@ -1,11 +1,35 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "67hours",
+    "url": "https://www.67hours.co.uk",
+    "slug": "67hours",
     "status": "up",
     "uptime": "100.00%",
-    "time": 45
+    "time": 607
+  },
+  {
+    "name": "CAVE",
+    "url": "https://www.designedbycave.co.uk",
+    "slug": "cave",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 105
+  },
+  {
+    "name": "CAVE Languages",
+    "url": "https://www.cavelanguages.co.uk",
+    "slug": "cave-languages",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 294
+  },
+  {
+    "name": "Doug Cave",
+    "url": "https://www.dougcave.co.uk",
+    "slug": "doug-cave",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 453
   },
   {
     "name": "KISKA",
@@ -13,30 +37,6 @@
     "slug": "kiska",
     "status": "up",
     "uptime": "100.00%",
-    "time": 839
-  },
-  {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 70
-  },
-  {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 326
-  },
-  {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "0.37%",
-    "time": 0
+    "time": 860
   }
 ]
