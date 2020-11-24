@@ -5,7 +5,7 @@
     "slug": "67hours",
     "status": "up",
     "uptime": "100.00%",
-    "time": 492
+    "time": 488
   },
   {
     "name": "designedbycave",
@@ -13,7 +13,7 @@
     "slug": "designedbycave",
     "status": "up",
     "uptime": "100.00%",
-    "time": 257
+    "time": 263
   },
   {
     "name": "CAVE Languages",
@@ -21,7 +21,7 @@
     "slug": "cave-languages",
     "status": "up",
     "uptime": "100.00%",
-    "time": 289
+    "time": 298
   },
   {
     "name": "Doug Cave",
@@ -29,7 +29,7 @@
     "slug": "doug-cave",
     "status": "up",
     "uptime": "100.00%",
-    "time": 425
+    "time": 445
   },
   {
     "name": "KISKA",
@@ -37,6 +37,6 @@
     "slug": "kiska",
     "status": "up",
     "uptime": "100.00%",
-    "time": 917
+    "time": 955
   }
 ]
