@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 520,
-    "timeDay": 577,
-    "timeWeek": 537,
-    "timeMonth": 520,
-    "timeYear": 520
+    "time": 523,
+    "timeDay": 568,
+    "timeWeek": 550,
+    "timeMonth": 523,
+    "timeYear": 523
   },
   {
     "name": "designedbycave",
@@ -25,43 +25,43 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 165,
-    "timeDay": 141,
-    "timeWeek": 138,
-    "timeMonth": 165,
-    "timeYear": 165
+    "time": 162,
+    "timeDay": 121,
+    "timeWeek": 127,
+    "timeMonth": 162,
+    "timeYear": 162
   },
   {
     "name": "CAVE Languages",
     "url": "https://www.cavelanguages.co.uk",
     "slug": "cave-languages",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 384,
-    "timeDay": 466,
-    "timeWeek": 393,
-    "timeMonth": 384,
-    "timeYear": 384
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 387,
+    "timeDay": 428,
+    "timeWeek": 399,
+    "timeMonth": 387,
+    "timeYear": 387
   },
   {
     "name": "Doug Cave",
     "url": "https://www.dougcave.co.uk",
     "slug": "doug-cave",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 473,
-    "timeDay": 530,
-    "timeWeek": 489,
-    "timeMonth": 473,
-    "timeYear": 473
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 475,
+    "timeDay": 499,
+    "timeWeek": 501,
+    "timeMonth": 475,
+    "timeYear": 475
   },
   {
     "name": "KISKA",
@@ -73,10 +73,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1082,
-    "timeDay": 922,
-    "timeWeek": 1119,
-    "timeMonth": 1082,
-    "timeYear": 1082
+    "time": 1077,
+    "timeDay": 988,
+    "timeWeek": 1084,
+    "timeMonth": 1077,
+    "timeYear": 1077
   }
 ]
