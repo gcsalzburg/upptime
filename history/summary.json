@@ -62,9 +62,9 @@
     "url": "https://www.dougcave.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.dougcave.co.uk",
     "slug": "doug-cave",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
@@ -74,6 +74,7 @@
     "timeMonth": 475,
     "timeYear": 475,
     "dailyMinutesDown": {
+      "2020-12-09": 0,
       "2020-11-26": 16
     }
   },
