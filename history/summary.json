@@ -24,9 +24,9 @@
     "url": "https://www.designedbycave.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.designedbycave.co.uk",
     "slug": "designedbycave",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 127,
     "timeMonth": 147,
     "timeYear": 147,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-15": 0
+    }
   },
   {
     "name": "CAVE Languages",
@@ -43,11 +45,11 @@
     "icon": "https://favicons.githubusercontent.com/www.cavelanguages.co.uk",
     "slug": "cave-languages",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 389,
     "timeDay": 458,
     "timeWeek": 406,
