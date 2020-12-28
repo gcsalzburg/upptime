@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 555,
-    "timeDay": 493,
-    "timeWeek": 638,
-    "timeMonth": 567,
-    "timeYear": 555,
+    "time": 554,
+    "timeDay": 524,
+    "timeWeek": 593,
+    "timeMonth": 569,
+    "timeYear": 554,
     "dailyMinutesDown": {
       "2020-11-26": 17
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.90%",
-    "time": 213,
-    "timeDay": 130,
-    "timeWeek": 106,
-    "timeMonth": 222,
-    "timeYear": 213,
+    "time": 211,
+    "timeDay": 154,
+    "timeWeek": 121,
+    "timeMonth": 216,
+    "timeYear": 211,
     "dailyMinutesDown": {
       "2020-12-15": 48
     }
@@ -45,16 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/www.cavelanguages.co.uk",
     "slug": "cave-languages",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 405,
-    "timeDay": 417,
-    "timeWeek": 448,
+    "uptimeYear": "99.97%",
+    "time": 406,
+    "timeDay": 424,
+    "timeWeek": 451,
     "timeMonth": 415,
-    "timeYear": 405,
+    "timeYear": 406,
     "dailyMinutesDown": {
       "2020-11-26": 17
     }
@@ -65,16 +65,16 @@
     "icon": "https://favicons.githubusercontent.com/www.dougcave.co.uk",
     "slug": "doug-cave",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.87%",
-    "time": 492,
-    "timeDay": 443,
-    "timeWeek": 562,
-    "timeMonth": 498,
-    "timeYear": 492,
+    "uptimeYear": "99.88%",
+    "time": 491,
+    "timeDay": 457,
+    "timeWeek": 554,
+    "timeMonth": 500,
+    "timeYear": 491,
     "dailyMinutesDown": {
       "2020-12-09": 44,
       "2020-11-26": 16
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.91%",
-    "time": 1046,
-    "timeDay": 979,
-    "timeWeek": 1025,
-    "timeMonth": 1045,
-    "timeYear": 1046,
+    "time": 1045,
+    "timeDay": 1008,
+    "timeWeek": 1024,
+    "timeMonth": 1036,
+    "timeYear": 1045,
     "dailyMinutesDown": {
       "2020-12-08": 42
     }
