@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.67hours.co.uk",
     "slug": "67hours",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 554,
-    "timeDay": 524,
-    "timeWeek": 593,
-    "timeMonth": 569,
-    "timeYear": 554,
+    "uptimeYear": "99.97%",
+    "time": 559,
+    "timeDay": 767,
+    "timeWeek": 636,
+    "timeMonth": 575,
+    "timeYear": 559,
     "dailyMinutesDown": {
       "2020-11-26": 17
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.90%",
-    "time": 211,
-    "timeDay": 154,
-    "timeWeek": 121,
-    "timeMonth": 216,
-    "timeYear": 211,
+    "time": 208,
+    "timeDay": 72,
+    "timeWeek": 117,
+    "timeMonth": 213,
+    "timeYear": 208,
     "dailyMinutesDown": {
       "2020-12-15": 48
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 406,
-    "timeDay": 424,
-    "timeWeek": 451,
-    "timeMonth": 415,
-    "timeYear": 406,
+    "time": 408,
+    "timeDay": 500,
+    "timeWeek": 461,
+    "timeMonth": 418,
+    "timeYear": 408,
     "dailyMinutesDown": {
       "2020-11-26": 17
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.88%",
-    "time": 491,
-    "timeDay": 457,
-    "timeWeek": 554,
-    "timeMonth": 500,
-    "timeYear": 491,
+    "time": 490,
+    "timeDay": 422,
+    "timeWeek": 538,
+    "timeMonth": 499,
+    "timeYear": 490,
     "dailyMinutesDown": {
       "2020-12-09": 44,
       "2020-11-26": 16
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.91%",
-    "time": 1045,
-    "timeDay": 1008,
-    "timeWeek": 1024,
-    "timeMonth": 1036,
-    "timeYear": 1045,
+    "time": 1052,
+    "timeDay": 1342,
+    "timeWeek": 1076,
+    "timeMonth": 1049,
+    "timeYear": 1052,
     "dailyMinutesDown": {
       "2020-12-08": 42
     }
