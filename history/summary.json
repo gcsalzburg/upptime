@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 559,
-    "timeDay": 767,
-    "timeWeek": 636,
-    "timeMonth": 575,
-    "timeYear": 559,
+    "time": 569,
+    "timeDay": 970,
+    "timeWeek": 663,
+    "timeMonth": 594,
+    "timeYear": 569,
     "dailyMinutesDown": {
       "2020-11-26": 17
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/www.designedbycave.co.uk",
     "slug": "designedbycave",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "99.90%",
-    "time": 208,
-    "timeDay": 72,
-    "timeWeek": 117,
-    "timeMonth": 213,
-    "timeYear": 208,
+    "uptimeYear": "99.91%",
+    "time": 205,
+    "timeDay": 76,
+    "timeWeek": 110,
+    "timeMonth": 209,
+    "timeYear": 205,
     "dailyMinutesDown": {
       "2020-12-15": 48
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 408,
-    "timeDay": 500,
-    "timeWeek": 461,
-    "timeMonth": 418,
-    "timeYear": 408,
+    "time": 409,
+    "timeDay": 437,
+    "timeWeek": 457,
+    "timeMonth": 421,
+    "timeYear": 409,
     "dailyMinutesDown": {
       "2020-11-26": 17
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.88%",
-    "time": 490,
-    "timeDay": 422,
-    "timeWeek": 538,
-    "timeMonth": 499,
-    "timeYear": 490,
+    "time": 491,
+    "timeDay": 524,
+    "timeWeek": 502,
+    "timeMonth": 503,
+    "timeYear": 491,
     "dailyMinutesDown": {
       "2020-12-09": 44,
       "2020-11-26": 16
@@ -86,16 +86,16 @@
     "icon": "https://favicons.githubusercontent.com/www.kiska.com",
     "slug": "kiska",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.91%",
-    "time": 1052,
-    "timeDay": 1342,
-    "timeWeek": 1076,
-    "timeMonth": 1049,
-    "timeYear": 1052,
+    "uptimeYear": "99.92%",
+    "time": 1053,
+    "timeDay": 1067,
+    "timeWeek": 1082,
+    "timeMonth": 1044,
+    "timeYear": 1053,
     "dailyMinutesDown": {
       "2020-12-08": 42
     }
