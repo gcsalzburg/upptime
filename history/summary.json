@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 568,
-    "timeDay": 665,
-    "timeWeek": 645,
-    "timeMonth": 593,
+    "timeDay": 568,
+    "timeWeek": 651,
+    "timeMonth": 595,
     "timeYear": 568,
     "dailyMinutesDown": {
       "2020-11-26": 17
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.92%",
-    "time": 202,
-    "timeDay": 180,
-    "timeWeek": 141,
-    "timeMonth": 211,
-    "timeYear": 202,
+    "time": 200,
+    "timeDay": 142,
+    "timeWeek": 140,
+    "timeMonth": 212,
+    "timeYear": 200,
     "dailyMinutesDown": {
       "2020-12-15": 48
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 408,
-    "timeDay": 469,
-    "timeWeek": 423,
-    "timeMonth": 422,
-    "timeYear": 408,
+    "time": 409,
+    "timeDay": 452,
+    "timeWeek": 427,
+    "timeMonth": 423,
+    "timeYear": 409,
     "dailyMinutesDown": {
       "2020-11-26": 17
     }
@@ -65,15 +65,15 @@
     "icon": "https://favicons.githubusercontent.com/www.dougcave.co.uk",
     "slug": "doug-cave",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "99.90%",
     "time": 488,
-    "timeDay": 448,
-    "timeWeek": 463,
-    "timeMonth": 502,
+    "timeDay": 476,
+    "timeWeek": 465,
+    "timeMonth": 497,
     "timeYear": 488,
     "dailyMinutesDown": {
       "2020-12-09": 44,
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.93%",
-    "time": 1053,
-    "timeDay": 993,
-    "timeWeek": 1092,
-    "timeMonth": 1029,
-    "timeYear": 1053,
+    "time": 1052,
+    "timeDay": 1001,
+    "timeWeek": 1091,
+    "timeMonth": 1027,
+    "timeYear": 1052,
     "dailyMinutesDown": {
       "2020-12-08": 42
     }
