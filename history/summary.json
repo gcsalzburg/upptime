@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 572,
-    "timeDay": 602,
-    "timeWeek": 611,
-    "timeMonth": 608,
-    "timeYear": 572,
+    "time": 571,
+    "timeDay": 542,
+    "timeWeek": 594,
+    "timeMonth": 609,
+    "timeYear": 571,
     "dailyMinutesDown": {
       "2020-11-26": 17
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.93%",
-    "time": 194,
-    "timeDay": 39,
-    "timeWeek": 141,
-    "timeMonth": 217,
-    "timeYear": 194,
+    "time": 193,
+    "timeDay": 161,
+    "timeWeek": 138,
+    "timeMonth": 218,
+    "timeYear": 193,
     "dailyMinutesDown": {
       "2020-12-15": 48
     }
@@ -45,16 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/www.cavelanguages.co.uk",
     "slug": "cave-languages",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 418,
-    "timeDay": 530,
-    "timeWeek": 497,
-    "timeMonth": 443,
-    "timeYear": 418,
+    "uptimeYear": "99.98%",
+    "time": 419,
+    "timeDay": 479,
+    "timeWeek": 499,
+    "timeMonth": 448,
+    "timeYear": 419,
     "dailyMinutesDown": {
       "2020-11-26": 17
     }
@@ -68,12 +68,12 @@
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 486,
-    "timeDay": 535,
-    "timeWeek": 469,
-    "timeMonth": 495,
+    "timeDay": 477,
+    "timeWeek": 474,
+    "timeMonth": 489,
     "timeYear": 486,
     "dailyMinutesDown": {
       "2020-12-09": 44,
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1050,
-    "timeDay": 990,
-    "timeWeek": 1023,
+    "time": 1049,
+    "timeDay": 964,
+    "timeWeek": 1018,
     "timeMonth": 1041,
-    "timeYear": 1050,
+    "timeYear": 1049,
     "dailyMinutesDown": {
       "2020-12-08": 42
     }
