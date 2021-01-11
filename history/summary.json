@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/www.67hours.co.uk",
     "slug": "67hours",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 571,
     "timeDay": 559,
     "timeWeek": 592,
@@ -85,9 +85,9 @@
     "url": "https://www.kiska.com",
     "icon": "https://favicons.githubusercontent.com/www.kiska.com",
     "slug": "kiska",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -97,6 +97,7 @@
     "timeMonth": 1043,
     "timeYear": 1047,
     "dailyMinutesDown": {
+      "2021-01-11": 0,
       "2020-12-08": 42
     }
   }
